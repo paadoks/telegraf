@@ -84,4 +84,6 @@
     "botapi",
     "bot framework"
   ]
+},"scripts": {
+  "start": "node index.js"
 }
